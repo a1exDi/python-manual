@@ -41,5 +41,4 @@ self.__city = "Moscow" # Приватный (Private)
 
 ## Видео
 
-[https://www.youtube.com/watch?v=jtIq61A1LLw](https://www.youtube.com/watch?v=jtIq61A1LLw&feature=youtu.be)
-
+[https://www.youtube.com/watch?v=jtIq61A1LLw](https://www.youtube.com/watch?v=jtIq61A1LLw\&feature=youtu.be)

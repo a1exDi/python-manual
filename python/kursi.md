@@ -2,7 +2,7 @@
 
 ## **Sololearn**
 
-Очень простой сервис по изучению Python, хотя именно "изучать" я там не рекомендую, так, как информации минимум. Скорей всего подойдет для повторения и закрепления материала. Лично я использую этот сервис на телефоне \([iOS](https://itunes.apple.com/us/app/id953972812), [Android](https://play.google.com/store/apps/details?id=com.sololearn)\) - [https://www.sololearn.com/Course/Python/](https://www.sololearn.com/Course/Python/)
+Очень простой сервис по изучению Python, хотя именно "изучать" я там не рекомендую, так, как информации минимум. Скорей всего подойдет для повторения и закрепления материала. Лично я использую этот сервис на телефоне ([iOS](https://itunes.apple.com/us/app/id953972812), [Android](https://play.google.com/store/apps/details?id=com.sololearn)) - [https://www.sololearn.com/Course/Python/](https://www.sololearn.com/Course/Python/)
 
 ## **Coursera**
 
@@ -26,9 +26,9 @@
 
 ## Pythontutor
 
-Бесплатный курс по программированию с нуля. Работает прямо в браузере.  
-[  
-http://pythontutor.ru/](http://pythontutor.ru/)
+Бесплатный курс по программированию с нуля. Работает прямо в браузере.\
+[\
+http://pythontutor.ru/](http://pythontutor.ru)
 
 ## Shultais Education
 
@@ -38,5 +38,4 @@ http://pythontutor.ru/](http://pythontutor.ru/)
 
 ## HyperSkill
 
-[https://hyperskill.org/](https://hyperskill.org/) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения. 
-
+[https://hyperskill.org/](https://hyperskill.org) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения. 
