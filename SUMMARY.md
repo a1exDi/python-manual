@@ -26,8 +26,6 @@
   * [2.1.1 Переменные](yfdfwerwer/peremennie.md)
   * [2.1.2 Коментарии](yfdfwerwer/komentarii.md)
 * [⚒ Типы данных](data-types/README.md)
-  * [Строка - string](data-types/stroka-strings-str/README.md)
-    * [Функции и методы](data-types/stroka-strings-str/funktsii-i-metodi.md)
   * [Число (Numbers)](data-types/chislo-numbers-int.md)
   * [Логический тип - boolean](data-types/logicheskii-tip-booltruefalse.md)
   * [Множества](data-types/mnozhestva.md)
