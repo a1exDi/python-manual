@@ -71,3 +71,5 @@ IDE for python:
 [https://habrahabr.ru/post/167559/](https://vk.com/away.php?to=https%3A%2F%2Fhabrahabr.ru%2Fpost%2F167559%2F\&cc\_key=)
 
 [https://code.visualstudio.com/docs/languages/python](https://vk.com/away.php?to=https%3A%2F%2Fcode.visualstudio.com%2Fdocs%2Flanguages%2Fpython\&cc\_key=)
+
+[https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
