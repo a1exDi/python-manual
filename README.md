@@ -52,3 +52,7 @@ print(z) # Вывод результат сложения
 {% embed url="https://www.youtube.com/watch?v=bpASbXwjSp4" %}
 
 {% embed url="https://www.youtube.com/watch?v=S1qmY7ZBNJE" %}
+
+{% embed url="https://www.youtube.com/watch?v=hSdZxrpTkh0" %}
+&#x20;**Видео про изменяемы и не изменяемы типы данных**
+{% endembed %}
