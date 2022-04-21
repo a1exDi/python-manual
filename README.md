@@ -44,8 +44,11 @@ print(z) # Вывод результат сложения
 
 
 {% hint style="info" %}
-Важно знать и понимать, какой тип данных вы используйте!
+Важно знать и понимать, какой тип данных вы используйте
 {% endhint %}
 
+### Видео
 
+{% embed url="https://www.youtube.com/watch?v=bpASbXwjSp4" %}
 
+{% embed url="https://www.youtube.com/watch?v=S1qmY7ZBNJE" %}
