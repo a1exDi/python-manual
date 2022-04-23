@@ -57,6 +57,8 @@
   * [Модуль os](moduli/module-os.md)
 * [ООП - классы и объекты](klassy-i-obekty.md)
 * [Библиотеки](biblioteki/README.md)
+  * [pandas](biblioteki/pandas/README.md)
+    * [Типы данных](biblioteki/pandas/tipy-dannykh.md)
   * [cv2](biblioteki/cv2.md)
   * [NumPy](biblioteki/numpy.md)
   * [SciPy](biblioteki/scipy.md)
