@@ -105,3 +105,4 @@
     * [Виджеты](gui/pyqt/vidzhety.md)
   * [Toga](gui/toga.md)
 * [Склад ссылок](skladmusor.md)
+* [Page 1](page-1.md)
