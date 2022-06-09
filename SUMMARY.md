@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚒ Типы данных](README.md)
+* [🗃 Типы данных](README.md)
   * [list - список](data-types/list-spisok.md)
   * [dict - словарь](data-types/dict-slovar.md)
   * [boolean - логический](data-types/logicheskii-tip-booltruefalse.md)
