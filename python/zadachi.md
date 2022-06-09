@@ -4,7 +4,7 @@
 
 [https://py.checkio.org](https://py.checkio.org)
 
-[https://www.codewars.com/](https://www.codewars.com/)
+[https://www.codewars.com/](https://www.codewars.com)
 
 ## Времена года
 

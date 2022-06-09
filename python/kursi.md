@@ -28,7 +28,7 @@
 
 Бесплатный курс по программированию с нуля. Работает прямо в браузере.\
 [\
-http://pythontutor.ru/](http://pythontutor.ru/)
+http://pythontutor.ru/](http://pythontutor.ru)
 
 ## Shultais Education
 
@@ -38,4 +38,4 @@ http://pythontutor.ru/](http://pythontutor.ru/)
 
 ## HyperSkill
 
-[https://hyperskill.org/](https://hyperskill.org/) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения.&#x20;
+[https://hyperskill.org/](https://hyperskill.org) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения. 
