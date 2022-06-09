@@ -2,9 +2,10 @@
 
 * [🗃 Типы данных](README.md)
   * [Число - int/float](data-types/chislo-numbers-int.md)
-  * [Список - list](data-types/spisok-list.md)
-  * [Словарь - dict](tipi-kolletsii/slovari.md)
+  * [Строка - str](data-types/stroka-str.md)
   * [Логический - boolean](data-types/logicheskii-tip-booltruefalse.md)
+  * [Список - list](data-types/list-spisok.md)
+  * [Словарь - dict](tipi-kolletsii/slovari.md)
   * [Множество - set](data-types/mnozhestva.md)
   * [Кортежи - tuple](tipi-kolletsii/kortezhi.md)
   * [None](data-types/nonetype.md)
