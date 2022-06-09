@@ -20,22 +20,20 @@
 
 ## **Сodecademy**
 
-Курс мне понравился, хотя я его считаю не очень информативным. Нигде не увидел, но на сколько я понял этот курс по Python 2, но в основы программирования Python он погружает и вполне можно продолжить изучать Python 3.
-
-[https://www.codecademy.com/courses/learn-python](https://www.codecademy.com/courses/learn-python)
+[https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
 
 ## Pythontutor
 
 Бесплатный курс по программированию с нуля. Работает прямо в браузере.\
 [\
-http://pythontutor.ru/](http://pythontutor.ru)
+http://pythontutor.ru/](http://pythontutor.ru/)
 
 ## Shultais Education
 
 Сайт с курсом по питону созданный одним человеком - Никитой Шультайсом. Отличный сайт и отличный курс. Все по полочкам, присутствуют задачи для проверки и закрепления знаний, дополнительные материалы, комментарии к урокам. Лично мне, курс, структура сайта и подача материала очень понравилась. Рекомендую.
 
-[https://shultais.education/lms/courses](https://shultais.education/lms/courses)
+[https://shultais.education/courses/python-3](https://shultais.education/courses/python-3)
 
 ## HyperSkill
 
-[https://hyperskill.org/](https://hyperskill.org) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения. 
+[https://hyperskill.org/](https://hyperskill.org/) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения.&#x20;
